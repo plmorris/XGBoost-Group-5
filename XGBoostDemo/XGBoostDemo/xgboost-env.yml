@@ -1,0 +1,8 @@
+name: xgboost
+dependencies:
+  - pandas
+  - numpy
+  - matplotlib
+  - plotly
+  - ipykernel
+  - xgboost
